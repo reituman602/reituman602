@@ -36,7 +36,7 @@ In 2026, I launched **[KuajingBase (跨境基地)](https://kuajingbase.com)** �
 | 🔑 Domain | [How to Register a Domain for Your Cross-border Store](https://kuajingbase.com/en/domain) |
 | ⚖️ Legal | [US LLC Registration for Non-US Cross-border Sellers](https://kuajingbase.com/en/legal/us-llc) |
 | 🆚 Compare | [Shopify vs WooCommerce — Which Is Right for You?](https://kuajingbase.com/en/compare/shopify-vs-woocommerce) |
-| 🧮 Tools | [Free ROAS Calculator for Cross-border Ad Campaigns](https://kuajingbase.com/en/tools/roas-calculator) |
+| 🧮 Tools | [Free ROAS Calculator for Cross-border Ad Campaigns](https://kuajingbase.com/en/toolkit/roas-calculator) |
 
 ---
 
@@ -57,7 +57,7 @@ In 2026, I launched **[KuajingBase (跨境基地)](https://kuajingbase.com)** �
 
 ## 🧰 Tools I Recommend for Cross-border Sellers
 
-Check out the full **[cross-border tool directory on KuajingBase](https://kuajingbase.com/en/listings)** — 70+ tools tested and rated.
+Check out the full **[KuajingBase Cross-Border Toolkit](https://kuajingbase.com/en/toolkit)** — 38 free browser-based tools, tested and rated.
 
 **Payments:**
 - [Airwallex](https://kuajingbase.com/en/payment/airwallex) — Best for multi-currency accounts + virtual cards
@@ -71,7 +71,7 @@ Check out the full **[cross-border tool directory on KuajingBase](https://kuajin
 
 ## 📬 Get in Touch
 
-- 🌐 **Website**: [kuajingbase.com](https://kuajingbase.com)
+- 🌐 **Website (中文版)**: [kuajingbase.com](https://kuajingbase.com)
 - 🌐 **English Edition**: [kuajingbase.com/en](https://kuajingbase.com/en)
 - 📧 **Contact**: [kuajingbase.com/en/contact](https://kuajingbase.com/en/contact)
 - 💼 **1-on-1 Consulting**: [kuajingbase.com/en/consultation](https://kuajingbase.com/en/consultation)
